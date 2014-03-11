@@ -3,13 +3,13 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        pretty
+permalink:        '/blog/:categories/:year/:title.html'
 
 # Setup
 title:            'thoughts.'
 tagline:          'an excuse for beers'
-description:      'blog'
-url:              'http://misaakidis.github.io/'
+description:      'thoughts in the cyberspace'
+url:              'http://misaakidis.github.io'
 
 author:
   name:           'Marios Isaakidis'
@@ -24,3 +24,26 @@ paginate:         5
 
 #github:            https://github.com/misaakidis
 #  repo:           https://github.com/misaakidis/
+
+# RSS generator by agelber https://github.com/agelber/jekyll-rss
+name:           'thoughts. misaakidis'
+#url            - the url of the site
+#description    - (optional) a description for the feed (if not specified will be generated from name)
+#author         - (optional) the author of the site (if not specified will be left blank)
+#copyright      - (optional) the copyright of the feed (if not specified will be left blank)
+#rss_path       - (optional) the path to the feed (if not specified "/" will be used)
+#rss_name       - (optional) the name of the rss file (if not specified "rss.xml" will be used)
+#rss_post_limit - (optional) the number of posts in the feed
+
+# Sitemap.xml Generator by kinnetica https://github.com/kinnetica/jekyll-plugins
+sitemap:
+    file: '/sitemap.xml'
+    exclude:
+        - '/atom.xml'
+        - '/rss.xml'
+        - '/404.html'
+    include_posts:
+        - '/index.html'
+        - '/about.html'
+    change_frequency_name: 'change_frequency'
+    priority_name: 'priority'
