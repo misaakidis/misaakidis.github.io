@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>thoughts. misaakidis</title>
+    <link>http://misaakidis.github.io</link>
+    <description>thoughts in the cyberspace</description>
+    <pubDate>Sat, 08 Mar 2014 14:59:41 -0000</pubDate>
+    <item>
+      <title>Welcome to Jekyll!</title>
+      <link>http://misaakidis.github.io/blog/jekyll/update/2014/welcome-to-jekyll.html</link>
+      <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+</description>
+      <pubDate>Sat, 08 Mar 2014 14:59:41 -0000</pubDate>
+      <guid>http://misaakidis.github.io/blog/jekyll/update/2014/welcome-to-jekyll.html</guid>
+      <dc:date>2014-03-08T14:59:41Z</dc:date>
+    </item>
+    <dc:date>2014-03-08T14:59:41Z</dc:date>
+  </channel>
+</rss>
