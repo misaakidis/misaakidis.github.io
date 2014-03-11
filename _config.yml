@@ -1,3 +1,24 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'thoughts.'
+tagline:          'test'
+description:      'blog'
+url:              http://misaakidis.github.io/
+
+author:
+  name:           'Marios Isaakidis'
+  url:            https://twitter.com/misaakidis
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/misaakidis
