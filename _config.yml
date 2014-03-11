@@ -7,18 +7,20 @@ permalink:        pretty
 
 # Setup
 title:            'thoughts.'
-tagline:          'test'
+tagline:          'an excuse for beers'
 description:      'blog'
-url:              http://misaakidis.github.io/
+url:              'http://misaakidis.github.io/'
 
 author:
   name:           'Marios Isaakidis'
-  url:            https://twitter.com/misaakidis
+  nickname:       'misaakidis'
+  url:            'https://twitter.com/misaakidis'
+  email:          'misaakidis@yahoo.gr'
 
 paginate:         5
 
-# Custom vars
-version:          2.0.0
+## Custom vars
+#version:          2.0.0
 
-github:
-  repo:           https://github.com/misaakidis
+#github:            https://github.com/misaakidis
+#  repo:           https://github.com/misaakidis/
