@@ -4,7 +4,7 @@
  <title>[marios@web ~]$</title>
  <link href="http://misaakidis.github.io/atom.xml" rel="self"/>
  <link href="http://misaakidis.github.io/"/>
- <updated>2014-03-16T20:28:52+02:00</updated>
+ <updated>2014-03-16T20:51:11+02:00</updated>
  <id>http://misaakidis.github.io</id>
  <author>
    <name>Marios Isaakidis</name>
@@ -19,15 +19,19 @@
    <id>http://misaakidis.github.io/blog/hack/space/cyprus/2014/space-apps-nicosia</id>
    <content type="html">&lt;p&gt;Hey Space Appers,&lt;/p&gt;
 
-&lt;p&gt;if this &lt;a href=&quot;https://vimeo.com/82727889&quot;&gt;video&lt;/a&gt; brings back great memories, then you can&amp;#39;t miss &lt;strong&gt;&lt;a href=&quot;https://2014.spaceappschallenge.org/location/nicosia&quot;&gt;Space Apps Nicosia 2014&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;if this &lt;a href=&quot;https://vimeo.com/82727889&quot;&gt;video&lt;/a&gt; brings back great memories, then you can&amp;#39;t miss &lt;strong&gt;&lt;a href=&quot;https://2014.spaceappschallenge.org/location/nicosia/&quot; target=&quot;_blank&quot;&gt;Space Apps Nicosia 2014&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Save the date! April 12-13, 2014.&lt;/strong&gt; We will be joining over 100 cities around the world, to collaborate and solve challenges facing humanity -- both on and off Planet Earth.&lt;/p&gt;
 
-&lt;p&gt;Space Apps Nicosia 2014 will be &lt;strong&gt;an open event organized by the community, for the community&lt;/strong&gt;. We stay faithful to last year&amp;#39;s goals:
-- &lt;strong&gt;bring together&lt;/strong&gt; people who are interested in space science, engineering, technology and art
-- promote &lt;strong&gt;collaboration&lt;/strong&gt;
-- disseminate the mindset of &lt;strong&gt;openness&lt;/strong&gt;
-Nevertheless, we now are ready to kick-start the national space exploration program and educate the next generation of researchers and space doers.&lt;/p&gt;
+&lt;p&gt;Space Apps Nicosia 2014 will be &lt;strong&gt;an open event organized by the community, for the community&lt;/strong&gt;. We stay faithful to last year&amp;#39;s goals:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;  &lt;strong&gt;bring together&lt;/strong&gt; people who are interested in space science, engineering, technology and art&lt;/li&gt;
+&lt;li&gt;  promote &lt;strong&gt;collaboration&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;  disseminate the mindset of &lt;strong&gt;openness&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nevertheless, we now are ready to kick-start the national space exploration program and educate the next generation of researchers and space doers.&lt;/p&gt;
 
 &lt;p&gt;All in all, we are trying hard to turn this &lt;strong&gt;hackathon&lt;/strong&gt; into an unforgettable experience and help participants take the most out of it and come up with &lt;strong&gt;unique, innovative solutions&lt;/strong&gt;.&lt;/p&gt;
 
@@ -36,8 +40,8 @@ Nevertheless, we now are ready to kick-start the national space exploration prog
 &lt;p&gt;Hold on to your hats, it&amp;#39;s going to be a long ride upwards!&lt;/p&gt;
 
 &lt;p&gt;Ad astra,&lt;br&gt;
-Isaakidis Marios @misaakidis,&lt;br&gt;
-Event Lead &lt;a href=&quot;https://2014.spaceappschallenge.org/location/nicosia/&quot;&gt;Space Apps Nicosia 2014&lt;/a&gt;&lt;/p&gt;
+Isaakidis Marios &lt;a href=&quot;https://twitter.com/misaakidis&quot; target=&quot;_blank&quot;&gt;@misaakidis&lt;/a&gt;&lt;br&gt;
+Event Lead &lt;a href=&quot;https://2014.spaceappschallenge.org/location/nicosia/&quot; target=&quot;_blank&quot;&gt;Space Apps Nicosia 2014&lt;/a&gt;&lt;/p&gt;
 
 &lt;iframe src=&quot;//player.vimeo.com/video/82727889&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </content>
