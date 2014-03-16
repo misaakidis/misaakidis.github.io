@@ -6,16 +6,13 @@
 }
 
 .circular {
-    width: 8em;
-    height: 8em;
-    border-radius: 150px;
-    -webkit-border-radius: 150px;
-    -moz-border-radius: 150px;
+    width: 6rem;
+    height: 6rem;
+    border-radius: 6rem;
+    -webkit-border-radius: 6rem;
+    -moz-border-radius: 6rem;
     background: url(/public/me.jpg) no-repeat;
-    background-size: 8em 8em;
-/*    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);*/
+    background-size: 6rem 6rem;
 }
 
 .content {
