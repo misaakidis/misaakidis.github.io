@@ -2,12 +2,12 @@
 layout: post
 title:  "Announcing Space Apps Nicosia"
 date:   2014-03-13 
-categories: Hackathon Cyprus Space_Apps
+categories: hack space Cyprus
 ---
 
 Hey Space Appers,
 
-if this [video](https://vimeo.com/82727889) brings back great memories, then you can't miss **Space Apps Nicosia 2014!**
+if this [video](https://vimeo.com/82727889) brings back great memories, then you can't miss **[Space Apps Nicosia 2014](https://2014.spaceappschallenge.org/location/nicosia)!**
 
 **Save the date! April 12-13, 2014.** We will be joining over 100 cities around the world, to collaborate and solve challenges facing humanity -- both on and off Planet Earth.
 
