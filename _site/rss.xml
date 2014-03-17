@@ -8,7 +8,16 @@
     <title>thoughts. misaakidis</title>
     <link>http://misaakidis.github.io</link>
     <description>thoughts in the cyberspace</description>
-    <pubDate>Thu, 13 Mar 2014 00:00:00 +0200</pubDate>
+    <pubDate>Mon, 17 Mar 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Accept the Challenge! - Space Apps Nicosia 2014</title>
+      <link>http://misaakidis.github.io/blog/hack/space/cyprus/2014/accept-the-challenge.html</link>
+      <description>&lt;p&gt;Salutations fellow Space geeks,&lt;/p&gt;
+</description>
+      <pubDate>Mon, 17 Mar 2014 00:00:00 +0200</pubDate>
+      <guid>http://misaakidis.github.io/blog/hack/space/cyprus/2014/accept-the-challenge.html</guid>
+      <dc:date>2014-03-17T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Announcing Space Apps Nicosia</title>
       <link>http://misaakidis.github.io/blog/hack/space/cyprus/2014/space-apps-nicosia.html</link>
@@ -27,6 +36,6 @@
       <guid>http://misaakidis.github.io/blog/internet/2014/25-years-web.html</guid>
       <dc:date>2014-03-12T00:00:00+02:00</dc:date>
     </item>
-    <dc:date>2014-03-13T00:00:00+02:00</dc:date>
+    <dc:date>2014-03-17T00:00:00+02:00</dc:date>
   </channel>
 </rss>

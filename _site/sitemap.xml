@@ -2,18 +2,24 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://misaakidis.github.io/blog/internet/2014/25-years-web.html</loc>
-        <lastmod>2014-03-14T17:27:10+02:00</lastmod>
+        <lastmod>2014-03-17T19:18:57+02:00</lastmod>
     </url>
     <url>
         <loc>http://misaakidis.github.io/blog/hack/space/cyprus/2014/space-apps-nicosia.html</loc>
-        <lastmod>2014-03-16T20:50:11+02:00</lastmod>
+        <lastmod>2014-03-17T19:18:57+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://misaakidis.github.io/blog/hack/space/cyprus/2014/accept-the-challenge.html
+        </loc>
+        <lastmod>2014-03-17T19:18:57+02:00</lastmod>
     </url>
     <url>
         <loc>http://misaakidis.github.io/about.html</loc>
-        <lastmod>2014-03-16T20:50:11+02:00</lastmod>
+        <lastmod>2014-03-17T19:18:46+02:00</lastmod>
     </url>
     <url>
         <loc>http://misaakidis.github.io/</loc>
-        <lastmod>2014-03-16T20:50:11+02:00</lastmod>
+        <lastmod>2014-03-17T19:18:46+02:00</lastmod>
     </url>
 </urlset>
