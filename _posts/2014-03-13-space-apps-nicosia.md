@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Announcing Space Apps Nicosia"
+title:  "Announcing Space Apps Nicosia 2014"
 date:   2014-03-13 
 categories: hack space Cyprus
 ---

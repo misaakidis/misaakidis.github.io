@@ -6,7 +6,7 @@ pygments:         true
 permalink:        '/blog/:categories/:year/:title.html'
 
 # Setup
-title:            '[marios@web ~]$'
+title:            '[misaakidis@web ~]$'
 tagline:          'an excuse for beers'
 description:      'thoughts in the cyberspace'
 url:              'http://misaakidis.github.io'
