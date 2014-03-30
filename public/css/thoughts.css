@@ -1,3 +1,9 @@
+@media (min-width: 58rem) {
+  html {
+    font-size: 1.4rem;
+  }
+}
+
 a
 {
     color: rgb(21, 171, 51);
@@ -37,6 +43,7 @@ a
     min-width: 75%;
     padding-top:    4rem;
     padding-bottom: 4rem;
+    font-size: 0.8rem;
 }
 
 iframe {
