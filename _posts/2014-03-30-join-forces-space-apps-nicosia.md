@@ -9,7 +9,7 @@ Space Appers,
 
 this is serious. We are about to take part in a experiment occurring for the first time!
 
-**<a href="https://2014.spaceappschallenge.org/location/nicosia/" target="_blank">Space Apps Nicosia 2014</a>** was <a href="http://misaakidis.github.io/blog/hack/space/cyprus/2014/space-apps-nicosia.html" target="_blank">announced</a> as **an open event, organized by the community, for the community**. This means that **everybody can freely contribute** in any way she/he believes will help the event become successful.
+**<a href="https://2014.spaceappschallenge.org/location/nicosia/" target="_blank">Space Apps Nicosia 2014</a>** was <a href="/blog/2014/03/space-apps-nicosia.html" target="_blank">announced</a> as **an open event, organized by the community, for the community**. This means that **everybody can freely contribute** in any way she/he believes will help the event become successful.
 
 You can enjoy a hackathon as a participant, but it so much different when you become part of it (you can ask last year's volunteers!). You might enjoy helping people, be good at video editing, or know social media inside out. **Setting up a hackathon requires a wide variety of skills and talents**, that's why we split into the following groups:
 
