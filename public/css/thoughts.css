@@ -4,15 +4,27 @@
   }
 }
 
-a
-{
+a {
     color: rgb(21, 171, 51);
+}
+
+h2 a, h4 a {
+  padding: 1rem;
+  color: rgb(48, 48, 48);
+}
+
+h2 a:hover, h4 a:hover {
+  color: rgb(21, 171, 51);
+}
+
+.post-title {
+  font-size: 1.4rem;
 }
 
 .post-title a:hover,
 .post-title a:focus {
   color: rgb(21, 171, 51);
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .related-posts li a {
@@ -20,6 +32,7 @@ a
 }
 .related-posts li a:hover {
   color: rgb(21, 171, 51);
+  text-decoration: underline;
 }
 
 .center
