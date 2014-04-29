@@ -1,7 +1,10 @@
 <div class="center">
 
-    <div class="circular center"></div>
-   	<h2> <a href="/index.html">{{ site.author.nickname }}</a> </h2>
+    <div class="circular center"> <meta itemprop="image" content="http://misaakidis.github.io/public/me.jpg"> </div>
+   	<h2> <a href="/index.html">
+   		<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+		<span itemprop="name">{{ site.author.nickname }}</span></span>
+	</a> </h2>
     <h4>
     	<a href="/index.html">Blog</a> 
     	<a href="/about.html">About</a>
