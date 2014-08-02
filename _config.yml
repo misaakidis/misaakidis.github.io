@@ -1,14 +1,14 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        '/blog/:year/:month/:title.html'
 
 # Setup
 title:            '[misaakidis@web ~]$'
-tagline:          'an excuse for beers'
-description:      'thoughts in the cyberspace'
+tagline:          'pseudo-random thoughts on the wire'
+description:      'pseudo-random thoughts on the wire'
 url:              'http://misaakidis.github.io'
 
 author:

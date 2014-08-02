@@ -2,7 +2,7 @@
 layout: post
 title:  "15 Greek words"
 date:   2014-05-1 
-categories: philosophy, glossology
+categories: philosophy glossology
 ---
 
 χάος, γέννεσις, xρόνος  

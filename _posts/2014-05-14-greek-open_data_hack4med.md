@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Data collection for Greece"
 date:   2014-05-14 
-categories: open_data, hack
+categories: open_data hack
 ---
 
 <br />
