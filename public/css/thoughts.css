@@ -8,12 +8,12 @@ a {
     color: rgb(21, 171, 51);
 }
 
-h2 a, h4 a {
+h2 a, #nav a{
   padding: 1rem;
   color: rgb(48, 48, 48);
 }
 
-h2 a:hover, h4 a:hover {
+h2 a:hover, #nav a:hover {
   color: rgb(21, 171, 51);
 }
 
@@ -80,6 +80,10 @@ iframe {
 
 .post h2 {
   margin-top: 2rem;
+}
+
+.post p {
+  text-align: justify;
 }
 
 .post-date {

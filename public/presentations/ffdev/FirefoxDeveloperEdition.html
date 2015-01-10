@@ -1,0 +1,304 @@
+<!DOCTYPE HTML>
+<!-- <html lang="en-US"> -->
+<html lang="en-US">
+<!-- 
+  ^ a class of "fade" makes slides fade smoothly into one another
+ -->
+<!-- <html lang="en-US" class="nonumbers"> -->
+<!-- 
+  If you want no numbers on the slides add a "nonumbers" class 
+  to the HTML element.
+  Adding a class of "fade" will make slides fade into another. 
+-->
+<head>
+  <meta charset="UTF-8">
+  <title>Firefox Developer Edition presentation slides</title>
+<!-- 
+  If you upload your slides to the web, ensure that you have 
+  a good title - this shows up in search results and social
+  media links
+ -->
+  <meta name="viewport" content="width=device-width, user-scalable=yes">
+  <link rel="stylesheet" href="themes/mozilla/styles/style.css">
+  
+  <style>
+    .slide a {
+      color: white;
+    }
+
+    .notes {
+      color: black;
+    }
+
+    .bg_black{
+      background: rgba(0,0,0,0.5);
+      padding: 5px;
+    }
+  </style>
+
+</head>
+
+<body class="list">
+  <header class="caption">
+    <h1>Firefox Developer Edition</h1>
+    <p class="footer">
+      Marios Isaakidis, 
+      <a href="https://twitter.com/misaakidis" target="_blank">@misaakidis</a>
+    </p>
+  </header>
+  <aside class="talkdescription">
+    <p>This slide deck is using the shower system - roll over the previews to see the notes and click any slide to go into presentation mode. Then use keys to navigate. <button onclick="goFullScreen()">Go fullscreen</button></p>
+    <p class="abstract">
+      <strong>Abstract: </strong>
+      Firefox Developer Edition
+    </p>
+  </aside>
+
+<!-- Slide Block
+
+  <div id="slideid" class="slide"><div>
+    <section>
+      <header>
+        <h2>Title</h2>
+      </header>
+      <footer class="notes">
+      </footer>
+    </section>
+  </div></div>
+
+     End Slide Block -->
+
+
+  <div id="cover" class="slide"><div>
+    <section> 
+      <img src="images/firefox-developer_logo-wordmark_RGB.png" 
+           class="middle" height="300"
+           alt="Firefox Developer Edition Wordmark">
+      <small class="byline bg_black">
+        &nbsp <a href="https://misaakidis.github.io/about.html">Marios Isaakidis</a>, Mozilla Rep. #MozCofee SKG 10/1/2015&nbsp
+      </small>
+      <footer class="notes">
+        Firefox is a browser with a long history. 
+      </footer>
+    </section>
+  </div></div>
+
+  <div id="10years_ff" class="slide cover h"><div>
+    <section>
+      <header>
+        <h2>10 years firefox</h2>
+      </header>
+      <img src="images/ff10_skg.jpg"
+        class="middle"
+        alt="Thessaloniki Choose Independent Firefox">
+
+      <small class="credits">
+        <a href="https://twitter.com/mozillagreece/status/531826170409779200">
+          Image by @MozillaGreece
+        </a>
+      </small>
+
+      <footer class="notes">
+        Just two months ago, Mozilla and volunteers all around the world celebrated Firefox's 10th anniversary. Ten years ago, we built Firefox for early adopters and developers to give them more choice and control. Firefox integrated WebAPIs and Add-ons to enable people to get the most out of the Web. 
+      </footer>
+    </section>
+  </div></div>
+
+  <div id="takecareofdevs" class="slide"><div>
+    <section>
+      <header>
+        <h2>Empower Web creators</h2>
+      </header>
+      <img src="images/ff_care.gif" 
+           class="right" 
+           alt="Taking care of Web developers">
+
+      <blockquote>
+        Individuals must have the ability to shape the Internet and their own experiences on it.
+        <p class="byline"><a href="https://www.mozilla.org/en-US/about/manifesto/details">Mozilla Manifesto</a> principle #5</p>
+      </blockquote>
+      <footer class="notes">
+
+      </footer>
+    </section>
+  </div></div>
+
+  <div id="hitline" class="slide oneline"><div>
+    <section>
+      <header>
+        <h2>Built for those<br><strong>who build the Web</strong></h2>
+      </header>
+      <footer class="notes">
+        Now we’re giving developers the whole browser as a hard-hat area, allowing us to bring front and center the features most relevant to them. Having a dedicated developer browser means we can tailor the browsing experience to what developers do every day.
+
+        Because Firefox is part of an open-source, independent community and not part of a proprietary ecosystem, we’re able to offer features other browsers can’t by applying our tools everywhere the Web goes, regardless of platform or device.
+
+        One of the biggest pain points for developers is having to use numerous siloed development environments in order to create engaging content or for targeting different app stores. For these reasons, developers often end up having to bounce between different platforms and browsers, which decreases productivity and causes frustration.
+
+        Firefox Developer Edition solves this problem by creating a focal point to streamline your development workflow. It’s a stable developer browser which is not only a powerful authoring tool but also robust enough for everyday browsing. It also adds new features that simplify the process of building for the entire Web, whether targeting mobile or desktop across many different platforms.
+
+        If you’re an experienced developer, you’ll already be familiar with the installed tools so you can focus on developing your content or app as soon as you open the browser. There’s no need to download additional plugins or applications to debug mobile devices. If you’re a new Web developer, the streamlined workflow and the fact that everything is already set up and ready to go makes it easier to get started building sophisticated applications.
+      </footer>
+    </section>
+  </div></div>
+
+
+  <div id="feature-distinct_theme" class="slide"><div>
+    <section>
+      <header>
+        <h2>New dark theme</h2>
+      </header>
+      <img src="images/ffdev_prtscr.png"
+        class="middle"
+        alt="Firefox Developer Edition screenshot"
+        height="400">
+      <footer class="notes">
+        The first thing you’ll notice is the distinctive dark design running through the browser. We applied the developer tools theme to the entire browser. It’s trim and sharp and focused on saving space for the content on your screen. It also fits in with the darker look common among creative app development tools.
+      </footer>
+    </section>
+  </div></div>
+
+
+
+
+  <div id="feature-devsfirst" class="slide"><div>
+    <section>
+      <header>
+        <h2>Set up for Web developers</h2>
+      </header>
+      <ul>
+        <li>UI Shortcuts to developer tools</li>
+        <li>Developer tools (like Valence) come pre-installed</li>
+        <li>Default preference values tailored for Web devs</li>
+        <ul><li>Chrome and remote debugging enabled by default</li></ul>
+        <li>Automatically send feedback to Mozilla (Telemetry enabled)</li>
+      </ul>
+      <footer class="notes">
+      </footer>
+    </section>
+  </div></div>
+
+
+
+
+  <div id="feature-separate_profile" class="slide"><div>
+    <section>
+      <header>
+        <h2>A separate profile</h2>
+      </header>
+      <ul>
+        <li>What you do at Developer Edition does not affect your release or Beta versions of Firefox</li>
+        <li>You can run an instance of Firefox and Firefox Developer Edition side by side</li>
+        <li>Independent history of visited sites, bookmarks, toolbars etc.</li>
+        <li>Independent installed plugins, or version of plugins</li>
+        <li>Profiles can be synced with Firefox Sync</li>
+      </ul>
+      <footer class="notes">
+      Reasons to have multiple profiles
+
+      The casual user may want to have different profiles for different family members. Having different profiles would allow each person to have his or her own set of bookmarks, settings, and add-ons.
+
+      Web developers might want a secondary profile for testing websites, apps, or other projects on different Firefox channels. For example, you might want to have the Firebug add-on installed for Web development, but not for general-purpose Web browsing. While using the Nightly channel, you may encounter some add-ons that have become temporarily incompatible with new API changes, until the add-on developer has a chance to update them. You can remove such add-ons from your profile for Nightly use, while keeping them for use with other profiles.
+
+      For QA, testing, and bug triaging contributors, you may want to have multiple development versions of Firefox installed, each with its own profile. Creating new profiles for testing can keep you from losing your preferences, bookmarks, and history. It takes some time to set up a new profile, but once it is complete, all of your Firefox versions will update separately and can be run simultaneously.
+      </footer>
+    </section>
+  </div></div>
+
+
+
+
+  <div id="feature-aurora_channel" class="slide"><div>
+    <section>
+      <header>
+        <h2>The latest Firefox features</h2>
+      </header>
+      <ul>
+        <li>Developer Edition replaces the Aurora channel</li>
+        <ul><li>The one ideal for web/platform developers and early adopters</li></ul>
+        <li>The channel that gets updates first, right after Nightly, once they get stabilized</li>
+      </ul>
+      By using the Developer Edition, you gain access to tools and platform features at least 12 weeks before they reach the main Firefox release channel.
+      <footer class="notes">
+      Available browser development channels
+
+      There are four available browser channels, each at a different level of stability and development. The four channels are Release, Beta, Aurora, and Nightly. The Release channel is recommended for most users, as it is the "official release" channel. However, for those more adventurous, you can try one of the other three channels to see what is coming in Firefox and play around with emerging features. The Beta channel contains the features that are expected to be in the next release of Firefox and are in final stages of testing. Aurora contains experimental features, which are not yet at beta quality. Nightly contains the latest code from Firefox developers and is the least stable channel.
+      </footer>
+    </section>
+  </div></div>
+
+
+
+  <div id="sneekpeak" class="slide"><div>
+    <section>
+      <header>
+        <h2>Experimental developer tools</h2>
+      </header>
+      <figure>
+        <img src="images/performanceplusplus.png" 
+             class="middle"
+             alt="Performance++"
+             height="450">
+      </figure>
+      <small class="credits">
+        <a href="https://twitter.com/victorporof/status/552557571471843328">
+          @victorprof Sneek peak Performance++: fps+timeline+memory+profiling
+        </a>
+      </small>
+      <footer class="notes">
+      </footer>
+    </section>
+  </div></div>
+
+
+
+
+  <div id="follow" class="slide"><div>
+    <section>
+      <header>
+        <h2>Follow the stream</h2>
+      </header>
+      <img src="images/fox_over_obstacles.gif"
+        class="right"
+        width="350"
+        alt="Fox jumping over a river">
+      <ul>
+        <li>Twitter: <a href="https://twitter.com/FirefoxDevTools">@FirefoxDevTools</a></li>
+        <li><a href="https://marketplace.firefox.com/developers/">Developers | Firefox Marketplace</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Tools">Mozilla Developer Network</a></li>
+        <li><a href="https://hacks.mozilla.org/">Mozilla Hacks</a> Web developer blog</li>
+        <li><a href="http://mzl.la/devtools">Firefox Developer Tools ideas</a></li>
+      </ul>
+      <strong>Why not contribute?</strong><br>
+      <a href="https://wiki.mozilla.org/DevTools/GetInvolved">Get Involved</a>
+    </section>
+  </div></div>
+
+
+
+  <div id="thanks" class="slide cover w"><div>
+    <section>
+      <header>
+        <h2>Thanks</h2>
+      </header>
+      <img src="images/firefox-developer-window.jpg" 
+           class="middle shadow"
+           alt="Firefox Developer Edition Hipster">
+    <ul class="nobull">
+      <li><strong>Marios Isaakidis</strong></li>
+      <li>Mozilla Rep</li>
+      <li><a href="https://twitter.com/misaakidis">@misaakidis</a></li>
+      <li><a href="https://misaakidis.github.io/public/presentations/ffdev/FirefoxDeveloperEdition.html">Slides</a></li>
+    </ul>
+    </section>
+  </div></div>
+
+  <!--
+    To hide progress bar from entire presentation
+    just remove “progress” element.
+    -->
+  <!-- <div class="progress"><div></div></div> -->
+  <script src="scripts/script.js"></script>
+  <!-- Copyright © 2010–2012 Vadim Makeev — pepelsbey.net -->
+</body>
+</html>
