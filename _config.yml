@@ -9,7 +9,7 @@ permalink:        '/blog/:year/:month/:title.html'
 title:            '[misaakidis@web ~]$'
 tagline:          'pseudo-random thoughts on the wire'
 description:      'pseudo-random thoughts on the wire'
-url:              'http://misaakidis.github.io'
+url:              'https://marios.xyz'
 
 author:
   name:           'Marios Isaakidis'
